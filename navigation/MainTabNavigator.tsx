@@ -29,7 +29,7 @@ export default function BottomTabNavigator() {
         },
         indicatorStyle:{
           backgroundColor:Colors[colorScheme].background,
-          height:4
+          height:20
         },
         labelStyle:{
           fontWeight:'bold'
