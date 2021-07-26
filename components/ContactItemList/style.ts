@@ -23,16 +23,11 @@ const styles = StyleSheet.create({
         fontWeight: 'bold',
         fontSize: 16
     },
-    content: {
-        fontSize: 16,
-        color: 'grey',
-       flexWrap:'wrap'
-        
-    },
-    time: {
-        fontSize: 14,
-        color: 'grey'
+    status:{
+        fontSize:16,
+        color:'grey'
     }
+
 });
 
 export default styles;

@@ -3,4 +3,11 @@
   "compilerOptions": {
     "strict": true
   }
+  
 }
+// {
+//   "compilerOptions": {
+//       "jsx": "preserve"
+//   },
+//   "extends": "./tsconfig-base.json"
+// }
